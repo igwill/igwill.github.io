@@ -10,13 +10,3 @@ text zone
 large bold title
 ======
 text
-
-
-
-#{% include base_path %}
-
-
-#{% for post in site.test %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
