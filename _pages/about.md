@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 About me
 ======
 I am a postdoctoral fellow at the University of British Columbia (Vancouver, Canada) working with [Dr. Kayla King](https://www.zoology.ubc.ca/kinglab/). Here, I am studying how shifting climate can interact with multiple disease interactions simultaneously – altering host-parasite and parasite-parasite interactions during coinfection.
