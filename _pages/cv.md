@@ -13,8 +13,8 @@ A somewhat shortened version:
 
 Current position
 ------
-2025 – present: Postdoctoral Fellow, University of British Columbia (UBC), Dr. Kayla C. King, Canada.
-  Host-parasite evo-ecology: Coinfecting parasite interactions in a warming world
+* 2025 – present: Postdoctoral Fellow, University of British Columbia (UBC), Dr. Kayla C. King, Canada.
+  * Host-parasite evo-ecology: Coinfecting parasite interactions in a warming world
 
 Education & academic positions
 ------
