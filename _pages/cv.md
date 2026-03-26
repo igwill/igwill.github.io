@@ -96,69 +96,69 @@ Employment & research experiences
 Leadership & academic service
 ======
 * 2025 – present: King Lab EDI action plan, Vancouver, Canada.
-  Lead on developing metrics collection and EDI data analysis for Dr. King’s CERC EDI intiative; Supporting traning: "Equity, Diverstiy & Inclusion in Teaching and Learning"
+  * Lead on developing metrics collection and EDI data analysis for Dr. King’s CERC EDI intiative; Supporting traning: "Equity, Diverstiy & Inclusion in Teaching and Learning"
 * 2018 – present: Manuscript peer review.
-  Molecular Ecology (4), Journal of Experimental Biology, The Science of Nature, mSystems (2), Journal of Invertebrate Pathology, Proceedings B, Reinvention, UCF Pegasus Review
+  * Molecular Ecology (4), Journal of Experimental Biology, The Science of Nature, mSystems (2), Journal of Invertebrate Pathology, Proceedings B, Reinvention, UCF Pegasus Review
 * 2021: TAMBL award reviewer, Orlando,FL.
-  UCF Biology Graduate Student Association travel award judging
+  *UCF Biology Graduate Student Association travel award judging
 * 2020: Redesign of the UCF-COS Distinguished Speakers Seminar, Orlando, FL.
-  Developed an interdisciplinary seminar series adopted and funded ($16,000/year) by UCF College of Sciences to host scholars underrepresented in our department faculties, in collaboration with a fellow UCF graduate student, ended in 2023 due to FL Senate Bill 266 defunding DEI initiatives
+  * Developed an interdisciplinary seminar series adopted and funded ($16,000/year) by UCF College of Sciences to host scholars underrepresented in our department faculties, in collaboration with a fellow UCF graduate student, ended in 2023 due to FL Senate Bill 266 defunding DEI initiatives
 * 2019: Graduate School Q&A Panel, Orlando, FL.
-  Panel member for UCF biology undergraduates, hosted by UCF Entomological Society
+  * Panel member for UCF biology undergraduates, hosted by UCF Entomological Society
 * 2018 - 2019: BGSA Vice-president, Orlando, FL.
-  Leadership position with the UCF Biology Graduate Student Association
+  * Leadership position with the UCF Biology Graduate Student Association
 
 Teaching
 ======
 * 2025: Guest lecture at the University of British Columbia, Vancouver, Canada.
-  Invited guest lecturer for BIOL 302: Biodiversity, Human and Planetary Health
+  * Invited guest lecturer for BIOL 302: Biodiversity, Human and Planetary Health
 * 2020: Guest lecture at the University of California, Berkeley, Berkeley, CA.
-  Invited guest lecturer for ESPM 42: Insects and Human Society
+  * Invited guest lecturer for ESPM 42: Insects and Human Society
 * 2020: UCF Course Biology of Fungi, Orlando, FL.
-  Graduate Teaching Assistant, research intensive course
+  * Graduate Teaching Assistant, research intensive course
 * 2020: UCF Course Genomics, Orlando, FL.
-  Graduate Teaching Assistant, research intensive course
+  * Graduate Teaching Assistant, research intensive course
 * 2019: UCF Course Genetics Lab, Orlando, FL.
-  Graduate Teaching Assistant
+  * Graduate Teaching Assistant
 * 2019: Course revision UCF Genetics Lab, Orlando, FL.
-  Course content update and restructuring
+  * Course content update and restructuring
 * 2019: UCF Course Genetics Lab, Orlando, FL.
-  Graduate Teaching Assistant
+  * Graduate Teaching Assistant
 * 2018: UCF Course Genomics, Orlando, FL.
-  Graduate Teaching Assistant, research intensive course
+  * Graduate Teaching Assistant, research intensive course
 
 Mentorship
 ======
 * 2025 – present: Experimental assay training, UBC, Vancouver, Canada.
-Training graduate students, postdocs, and technical staff on core experimental methods
+  * Training graduate students, postdocs, and technical staff on core experimental methods
 * 2024 – present: PhD student, UBC, Vancouver, Canada.
-  Genotypic variation and disease outcomes across sympatric and allopatric host-parasite interactions
+  * Genotypic variation and disease outcomes across sympatric and allopatric host-parasite interactions
 * 2024 – present: PhD student, UBC, Vancouver, Canada.
-  Density dependent transmission and virulence in C. elegans
+  * Density dependent transmission and virulence in C. elegans
 * 2025: Undergraduate Directed Studies, UBC, Vancouver, Canada.
-  Defining parasitism in Leucobacter
+  * Defining parasitism in Leucobacter
 * 2025: Undergraduate Directed Studies, UBC, Vancouver, Canada.
-  Siderophores and iron-mediated competition in Leucobacter
+  * Siderophores and iron-mediated competition in Leucobacter
 * 2020 – 2022: Bachelor’s Honors Thesis, UCF, Orlando, USA.
-  Exploration "zombie ant fungus" enterotoxin in carpenter ant behavioral manipulation
+  * Exploration "zombie ant fungus" enterotoxin in carpenter ant behavioral manipulation
 
 Outreach
 ======
 * 2022 – present: Expert commentary for science journalism.
-  National Geographic, Newsweek, The New York Times, Global News
+  * National Geographic, Newsweek, The New York Times, Global News
 * 2023: Curiosity Stream video interview, Orlando,FL.
-  Interview and field visit discussing parasitic behavioral manipulation
+  * Interview and field visit discussing parasitic behavioral manipulation
 * 2023: Research in 60 Seconds video, Orlando,FL.
-  UCF Communications STEM outreach video
+  * UCF Communications STEM outreach video
 * 2023: UCF Subject Matter Expert, Orlando,FL.
-  UCF Communications & Marketing listed expert for outreach and commentary
+  * UCF Communications & Marketing listed expert for outreach and commentary
 * 2022: Otronicon Interactive Technology Expo, Orlando,FL.
-  Multi-day outreach event in partnership with the Orlando Science Center
+  * Multi-day outreach event in partnership with the Orlando Science Center
 * 2021, 2020: Seminole County Science Fair, Sanford, FL.
-  Judging student science projects
+  * Judging student science projects
 * 2020: Interview on Naturistic, Orlando, FL.
-  Natural history short film series
+  * Natural history short film series
 * 2018: BIOTEC Instructor, Orlando, FL.
-  Project-based science camp for high-school students
+  * Project-based science camp for high-school students
 
 
