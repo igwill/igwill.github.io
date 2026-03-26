@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+My research centers host-parasite interactions, focused on mechanisms, disease outcomes, and ecology. I am especially interested in perspectives that integrate community dynamics within and between hosts, disruptions due to envrionmental shifts, and symbioses along the mutualist-parasite continuum.
+
 Current Postdoc Research
 ------
 How do complex disease interactions among hosts and multiple parasites or resident symbionts change across environments? Each of these players and their interactions with each other may respond to environmental shifts. Predicting disease outcomes based only on one interaction, for example between one host and one parasite, may not capture realistic processes that drive variation in disease. To approach these ideas, I have been working with _C. elegans_ nematodes and microbial parasites in the laboratory (UBC, with Dr. Kayla King). We have analyzed host gene expression responses to [novel parasite invasion in hosts carrying a resident microbiome](https://doi.org/10.1111/mec.17586Digital) and [hosts benefiting from parasite-parasite competition](https://doi.org/10.1111/mec.70124) that reduces net virulence. Taking these naturally coinfection competitor microbes (_Leucobacter_), we have tested [host outcomes across temperature](https://doi.org/10.64898/2025.12.10.693475). Here, found that strong temperature-driven shifts in host-parasite interactions did not always coincide with similar shifts in parasite-parasite interactions – meaning that coinfections essentially dampened the effects of temperature changes. This work is currently being extended with additional host RNAseq and collaboration with a mathematical modeler.

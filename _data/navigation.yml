@@ -23,11 +23,13 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
- # - title: "CV"
- #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
  # - title: "Guide"
  #   url: /markdown/
+
+# make an edi statement? map of past jobs? expand research into subfields? mentoring? service? hobbies and life stuff? get some pictures in # ai policy # land acknowledgement
