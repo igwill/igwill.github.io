@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV [here](igwill/igwill.github.io/files/Will_CV_2026.pdf).
+You can download my full CV [here](https://github.com/igwill/igwill.github.io/blob/master/files/Will_CV_2026.pdf).
 
 A short version:
 
