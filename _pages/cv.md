@@ -12,12 +12,12 @@ You can download my full CV [here](https://github.com/igwill/igwill.github.io/bl
 A short version:
 
 Current position
-======
+------
 2025--present: Postdoctoral Fellow, University of British Columbia (UBC), Dr. Kayla C. King, Canada.
   Host-parasite evo-ecology: Coinfecting parasite interactions in a warming world
 
 Education & academic positions
-======
+------
 * 2023 – 2025: Postdoctoral Researcher, University of Oxford, Dr. K. C. King, UK.
 * 2022 – 2023: Postdoctoral Researcher, University of Central Florida (UCF), Dr. C. de Bekker, USA.
 * 2017 – 2022: Doctor of Philosophy – Conservation & Integrative Biology, UCF, Orlando, USA.
@@ -28,7 +28,7 @@ Education & academic positions
   * Student research course publication: Host preference, detection, and dependence: the ectoparasitic gastropods _Melanella acicula_ and _Peasistilifer nitidula_ (Eulimidae) on holothurian hosts
 
 Publications (also on [Google Scholar](https://scholar.google.ca/citations?hl=en&pli=1&user=XmDE2V0AAAAJ))
-======
+------
 * 2026: Higgins C.M., Hector T.E, & Will I. Recent advances in understanding the impact
 of climate change on insects and their parasites across multiple scales. Under Review
 * 2025: Will I., Smith C.A., Hector T.E, & King K.C. Coinfections dampen the effects
@@ -58,7 +58,7 @@ effects of parasitic manipulations and host responses on ant behavioral ecology.
 doi.org/10.1371/journal.pone.0187170
 
 Awards
-======
+------
 * 2023: Best Poster Award, European Conference on Fungal Genetics.
 * 2019: Byrd-Dunn Graduate Student Research Award, SE Society of Parasitologists.
 * 2019: Robert Lichtwardt Research Award, Mycological Society of America (MSA).
@@ -71,7 +71,7 @@ Awards
 * 2017: ORC Doctoral Fellowship, UCF.
 
 Research presentations
-======
+------
 * 2024: British Ecological Society Annual Meeting, Oral, Liverpool, UK.
 * 2024: British Society for Parasitology Spring Meeting, Poster, Liverpool, UK.
 * 2023: 16th European Conference on Fungal Genetics, Poster, Innsbruck, Austria. * Awarded
@@ -82,7 +82,7 @@ Research presentations
 * 2019: 30th Fungal Genetics Meeting - GSA, Poster, Pacific Grove, USA. * Awarded
 
 Employment & research experiences
-======
+------
 * 2024: XPRIZE Rainforest Finals, XPRIZE, K. Marriott, Brazil.
 * 2017: Evolution of Gene Regulation Laboratory, LMU, Dr. N. Gompel, Germany.
 * 2016 – 2017: Circadian Rhythm Laboratory, LMU, Dr. M. Merrow & A. Brachmann, Germany.
@@ -94,7 +94,7 @@ Employment & research experiences
 * 2010: Ant-Plant Symbiosis Project, Stanford Univ., Dr. E. Pringle, Costa Rica.
 
 Leadership & academic service
-======
+------
 * 2025 – present: King Lab EDI action plan, Vancouver, Canada.
   * Lead on developing metrics collection and EDI data analysis for Dr. King’s CERC EDI intiative; Supporting traning: "Equity, Diverstiy & Inclusion in Teaching and Learning"
 * 2018 – present: Manuscript peer review.
@@ -109,7 +109,7 @@ Leadership & academic service
   * Leadership position with the UCF Biology Graduate Student Association
 
 Teaching
-======
+------
 * 2025: Guest lecture at the University of British Columbia, Vancouver, Canada.
   * Invited guest lecturer for BIOL 302: Biodiversity, Human and Planetary Health
 * 2020: Guest lecture at the University of California, Berkeley, Berkeley, CA.
@@ -128,7 +128,7 @@ Teaching
   * Graduate Teaching Assistant, research intensive course
 
 Mentorship
-======
+------
 * 2025 – present: Experimental assay training, UBC, Vancouver, Canada.
   * Training graduate students, postdocs, and technical staff on core experimental methods
 * 2024 – present: PhD student, UBC, Vancouver, Canada.
@@ -143,7 +143,7 @@ Mentorship
   * Exploration "zombie ant fungus" enterotoxin in carpenter ant behavioral manipulation
 
 Outreach
-======
+------
 * 2022 – present: Expert commentary for science journalism.
   * National Geographic, Newsweek, The New York Times, Global News
 * 2023: Curiosity Stream video interview, Orlando,FL.
