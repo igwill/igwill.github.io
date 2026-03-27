@@ -7,7 +7,7 @@ author_profile: true
 
 My research centers host-parasite interactions, focused on mechanisms, disease outcomes, and ecology. I am especially interested in perspectives that integrate community dynamics within and between hosts, disruptions due to envrionmental shifts, and symbioses along the mutualist-parasite continuum.
 
-I've run field and lab studies, collected phenotypic data from infection assays, analyzed genomics/transcriptomics, and built statistical models (Bayesian and frequentist). I am seeking to expand my abilities to integrate more evolutionary biology in my work and learn to competently collaborate with methodical modelers and biological theoreticians.
+I've run field and lab studies, collected phenotypic data from infection assays, analyzed genomics/transcriptomics, and built statistical models (Bayesian and frequentist). I am seeking to expand my abilities to integrate more evolutionary biology in my work and learn to competently collaborate with mathematical modelers and biological theoreticians.
 
 Current Postdoc Research
 ------
