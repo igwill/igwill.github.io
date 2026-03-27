@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Research Map"
 permalink: /map/
 author_profile: true
