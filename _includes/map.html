@@ -1,0 +1,100 @@
+<style>
+.map-wrap { position: relative; display: inline-block; width: 100%; }
+
+/* Your background map image */
+.map-wrap img.basemap { width: 100%; display: block; }
+
+/* Each pin is absolutely positioned over the map */
+.pin {
+  position: absolute;
+  cursor: pointer;
+  transform: translate(-50%, -100%); /* anchor at the bottom-center of the dot */
+}
+
+.pin-dot {
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: #e24b4a;
+  border: 2.5px solid white;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  transition: transform 0.18s ease;
+}
+.pin:hover .pin-dot { transform: scale(1.6); }
+
+/* Tooltip balloon */
+.tooltip {
+  position: absolute;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px 12px;
+  width: 200px;
+  bottom: calc(100% + 10px); /* sits above the pin */
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  opacity: 0;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  pointer-events: none;
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+.pin:hover .tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* Small image inside tooltip */
+.tooltip img { width: 100%; border-radius: 6px; margin-bottom: 6px; }
+.tooltip h3 { margin: 0 0 4px; font-size: 14px; }
+.tooltip p  { margin: 0; font-size: 12px; color: #666; }
+
+/* Tail triangle */
+.tail {
+  position: absolute;
+  bottom: -6px; left: 50%;
+  width: 10px; height: 10px;
+  background: white;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  transform: translateX(-50%) rotate(45deg);
+}
+</style>
+
+<div class="map-wrap">
+  <img class="basemap" src="/images/testmap.jpg" alt="World map" />
+
+  <!-- Pin: left/top are % of the map image dimensions -->
+  <div class="pin" style="left: 23%; top: 42%;">
+    <div class="tooltip">
+      <img src="/images/travels/nyc-thumb.jpg" alt="NYC" />
+      <h3>New York, USA</h3>
+      <p>Keynote at the AI Summit, Oct 2024.</p>
+      <div class="tail"></div>
+    </div>
+    <div class="pin-dot"></div>
+  </div>
+
+  <!-- Add more pins here -->
+</div>
+
+
+
+<!-- extra bit for mobile click/hover functionality -->
+<script>
+document.querySelectorAll('.pin').forEach(pin => {
+  pin.addEventListener('click', function(e) {
+    e.stopPropagation();
+    // Close any other open pins first
+    document.querySelectorAll('.pin.active').forEach(p => {
+      if (p !== pin) p.classList.remove('active');
+    });
+    // Toggle this one
+    pin.classList.toggle('active');
+  });
+});
+
+// Tap anywhere else on the map to close all tooltips
+document.addEventListener('click', () => {
+  document.querySelectorAll('.pin.active').forEach(p => p.classList.remove('active'));
+});
+</script>
