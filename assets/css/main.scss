@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Fix for dark mode toggle shifting on the map page */
+.greedy-nav .nav-selector {
+  z-index: 2000 !important; /* Keep it above Leaflet (default 1000) */
+  display: flex;
+  align-items: center;
+}
+
+#map {
+  /* Prevent the map from expanding and pushing the header */
+  margin-top: 20px; 
+  clear: both;
+}
