@@ -28,27 +28,31 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- CUSTOM FIXES --- */
+/* --- FINAL FIX FOR ICON SHIFT --- */
 
-/* 1. Prevent the greedy-nav from collapsing incorrectly */
-.greedy-nav {
+/* This targets the navigation container specifically to prevent wrapping */
+.masthead__inner-nav .greedy-nav {
   display: flex !important;
-  justify-content: space-between;
-  align-items: center;
+  flex-wrap: nowrap !important; /* Forces the items to stay in one line */
+  align-items: center !important;
   overflow: visible !important;
 }
 
-/* 2. Fix the toggle alignment */
-.greedy-nav .nav-selector {
+/* This targets the toggle button (nav-selector) to keep it aligned */
+.masthead__inner-nav .greedy-nav .nav-selector {
   display: flex !important;
-  align-items: center;
-  margin-top: 0 !important;
-  height: 100%;
+  align-items: center !important;
+  position: relative !important;
+  margin: 0 !important;
+  padding: 0 10px !important;
+  height: auto !important;
+  align-self: center !important;
 }
 
-/* 3. Force the map to stay below the navigation */
+/* Fix for the map pushing the layout */
 .map-wrap {
   clear: both !important;
-  display: block !important;
-  margin-top: 2rem !important;
+  margin-top: 50px !important;
+  position: relative !important;
+  z-index: 1;
 }
