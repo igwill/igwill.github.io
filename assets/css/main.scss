@@ -1,15 +1,26 @@
 ---
 ---
 
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
 @import
     "vendor/breakpoint/breakpoint",
+
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
     "include/mixins",
     "vendor/susy/susy",
+
     "layout/reset",
     "layout/base",
+
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -18,30 +29,15 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
+
     "layout/forms",
+
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
+
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* --- THE FIX --- */
-.greedy-nav {
-  display: flex !important;
-  flex-wrap: nowrap !important; /* Prevents the toggle from jumping to a new line */
-  align-items: center !important;
-}
-
-.greedy-nav .nav-selector {
-  display: flex !important;
-  align-items: center !important;
-  margin: 0 0 0 10px !important; /* Adds consistent spacing */
-}
-
-.map-container-fixed {
-  clear: both !important;
-  margin-top: 40px !important;
-}
