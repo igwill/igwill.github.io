@@ -44,8 +44,8 @@
 }
 
 /* Small image inside tooltip */
-.tooltip img { width: 100%; border-radius: 6px; margin-bottom: 6px; }
-.tooltip h3 { margin: 0 0 4px; font-size: 14px; }
+.tooltip img { width: 100%; border-radius: 6px; margin-bottom: 6px; max-height: 80px; } /* width was 100%, I added max-height */
+.tooltip h3 { margin: 0 0 4px; font-size: 14px; color: #343131; }
 .tooltip p  { margin: 0; font-size: 12px; color: #666; }
 
 /* Tail triangle */
@@ -61,7 +61,7 @@
 </style>
 
 <div class="map-wrap">
-  <img class="basemap" src="/images/travels/maplores.png" alt="World map" />
+  <img class="basemap" src="/images/travels/map_lores.png" alt="World map" />
 
   <!-- Pin: left/top are % of the map image dimensions -->
   <div class="pin" style="left: 12.4%; top: 29.7%;">
