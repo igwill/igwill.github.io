@@ -5,4 +5,4 @@ permalink: /map/
 author_profile: true
 ---
 
-{% include map.html %}
+{% include researchmap.html %}
