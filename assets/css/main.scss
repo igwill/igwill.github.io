@@ -28,35 +28,20 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- FINAL FIX FOR ICON SHIFT --- */
-
-/* This targets the navigation container specifically to prevent wrapping */
-.masthead__inner-nav .greedy-nav {
-  display: flex !important;
-  flex-wrap: nowrap !important; /* Forces the items to stay in one line */
-  align-items: center !important;
-  overflow: visible !important;
-}
-
-/* This targets the toggle button (nav-selector) to keep it aligned */
-.masthead__inner-nav .greedy-nav .nav-selector {
-  display: flex !important;
-  align-items: center !important;
-  position: relative !important;
-  margin: 0 !important;
-  padding: 0 10px !important;
-  height: auto !important;
-  align-self: center !important;
-}
-
-/* Fix for the map pushing the layout */
-.map-wrap {
-  clear: both !important;
-  margin-top: 50px !important;
-  position: relative !important;
-  z-index: 1;
-}
+/* --- THE FIX --- */
 .greedy-nav {
   display: flex !important;
-  flex-wrap: nowrap !important; /* This is the key to preventing the shift */
+  flex-wrap: nowrap !important; /* Prevents the toggle from jumping to a new line */
+  align-items: center !important;
+}
+
+.greedy-nav .nav-selector {
+  display: flex !important;
+  align-items: center !important;
+  margin: 0 0 0 10px !important; /* Adds consistent spacing */
+}
+
+.map-container-fixed {
+  clear: both !important;
+  margin-top: 40px !important;
 }
