@@ -41,14 +41,23 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Fix for dark mode toggle shifting */
-.greedy-nav .search-toggle,
-.greedy-nav .nav-selector {
-  display: flex !important;
-  align-items: center !important;
-  vertical-align: middle !important;
+/* --- edits being added --- */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes";
+
+/* --- PASTE THIS AT THE VERY BOTTOM --- */
+.greedy-nav {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: visible !important; /* This stops the toggle from disappearing/shifting */
 }
 
-.greedy-nav {
-  overflow: visible !important; /* Prevents the icon from being 'pushed' out of view */
+.greedy-nav .search-toggle,
+.greedy-nav .nav-selector {
+  margin-left: 0;
+  display: flex !important;
+  align-items: center;
 }
+/* -------------------------------------- */
