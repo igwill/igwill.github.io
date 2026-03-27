@@ -1,5 +1,12 @@
 <style>
-.map-wrap { position: relative; display: block; width: 100%; }
+  .map-wrap { 
+    position: relative; 
+    display: block; 
+    width: 100%; 
+    clear: both; /* This prevents the map from 'floating' up into the header space */
+    margin-top: 20px; 
+  }
+/* old line 2: .map-wrap { position: relative; display: block; width: 100%; }
 
 /* Your background map image */
 .map-wrap img.basemap { width: 100%; display: block; }
