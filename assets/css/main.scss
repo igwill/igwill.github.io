@@ -1,29 +1,15 @@
 ---
 ---
----
----
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; /* new stuff */
-@import "minimal-mistakes";
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
 
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -32,33 +18,37 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* --- edits being added --- */
 
-/* --- PASTE THIS AT THE VERY BOTTOM --- */
+/* --- CUSTOM FIXES --- */
+
+/* 1. Prevent the greedy-nav from collapsing incorrectly */
 .greedy-nav {
-  position: relative;
-  display: flex;
+  display: flex !important;
   justify-content: space-between;
   align-items: center;
-  overflow: visible !important; /* This stops the toggle from disappearing/shifting */
+  overflow: visible !important;
 }
 
-.greedy-nav .search-toggle,
+/* 2. Fix the toggle alignment */
 .greedy-nav .nav-selector {
-  margin-left: 0;
   display: flex !important;
   align-items: center;
+  margin-top: 0 !important;
+  height: 100%;
 }
-/* -------------------------------------- */
+
+/* 3. Force the map to stay below the navigation */
+.map-wrap {
+  clear: both !important;
+  display: block !important;
+  margin-top: 2rem !important;
+}
