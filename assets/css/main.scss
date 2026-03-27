@@ -1,6 +1,9 @@
 ---
 ---
-
+---
+---
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; /* new stuff */
+@import "minimal-mistakes";
 /*
  * This file controls what is imported from /_sass
  *
@@ -42,8 +45,6 @@
     "vendor/font-awesome/brands"
 ;
 /* --- edits being added --- */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
-@import "minimal-mistakes";
 
 /* --- PASTE THIS AT THE VERY BOTTOM --- */
 .greedy-nav {
