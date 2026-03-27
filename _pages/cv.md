@@ -21,9 +21,9 @@ Education & academic positions
 * 2023 – 2025: Postdoctoral Researcher, University of Oxford, Dr. K. C. King, UK.
 * 2022 – 2023: Postdoctoral Researcher, University of Central Florida (UCF), Dr. C. de Bekker, USA.
 * 2017 – 2022: Doctor of Philosophy – Conservation & Integrative Biology, UCF, Orlando, USA.
-  * Dissertation under Prof. C. de Bekker: Multiomic hypotheses of behavioral manipulation by _Ophiocordyceps_ (zombie ant fungus) infecting _Camponotus_ (carpenter ant)
+  * Dissertation under Dr. C. de Bekker: Multiomic hypotheses of behavioral manipulation by _Ophiocordyceps_ (zombie ant fungus) infecting _Camponotus_ (carpenter ant)
 * 2013 – 2015: Master of Science – Biology, Ludwig-Maximilians-Universität (LMU), Munich, Germany.
-  * Thesis under Prof. M. Götz & Dr. F. Calzolari: The neural stem cell response to challenge by injury and mitotic spindle dysregulation
+  * Thesis under Dr. M. Götz & Dr. F. Calzolari: The neural stem cell response to challenge by injury and mitotic spindle dysregulation
 * 2006 – 2009: Bachelor of Arts – Integrative Biology, University of California, Berkeley.
   * Student research course publication: Host preference, detection, and dependence: the ectoparasitic gastropods _Melanella acicula_ and _Peasistilifer nitidula_ (Eulimidae) on holothurian hosts
 
