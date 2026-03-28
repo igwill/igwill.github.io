@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Map"
+title: "Career Map"
 permalink: /map/
 author_profile: true
 ---
