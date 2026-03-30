@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research centers host-parasite interactions, focused on mechanisms, disease outcomes, and ecology. I am especially interested in perspectives that integrate community dynamics within and between hosts, disruptions due to envrionmental shifts, and symbioses along the mutualist-parasite continuum.
+My research centers host-parasite interactions, focused on mechanisms, disease outcomes, and ecology. I am especially interested in perspectives that integrate community dynamics within and between hosts, disruptions due to environmental  shifts, and symbioses along the mutualist-parasite continuum.
 
 I've run field and lab studies, collected phenotypic data from infection assays, analyzed genomics/transcriptomics, and built statistical models (Bayesian and frequentist). I am seeking to expand my abilities to integrate more evolutionary biology in my work and learn to competently collaborate with mathematical modelers and biological theoreticians.
 
@@ -20,7 +20,7 @@ My PhD research focused on revealing the molecular basis of parasitic behavioral
 
 MSc Research: Molecular and cellular biology
 ------
-During my Master’s under Dr. Magdalena Götz (Ludwig-Maximilians-Universität, Germany) my thesis was on neural stem cell biology in mice. I also had a few lab rotations and accumlated a variety of molecular techniques with cells, worms, and flies. I had come expecting to continue my focus on organismal-level ecology, but due to a twist of fate after arriving, I ended up becoming a bit of a lab rat. And lucky that - the molecular and genetic world of biology really opened up for me here. Not to mention meeting my future PhD advisor while she was postdocing at the university.
+During my Master’s under Dr. Magdalena Götz (Ludwig-Maximilians-Universität, Germany) my thesis was on neural stem cell biology in mice. I also had a few lab rotations and accumulated  a variety of molecular techniques with cells, worms, and flies. I had come expecting to continue my focus on organismal-level ecology, but due to a twist of fate after arriving, I ended up becoming a bit of a lab rat. And lucky that - the molecular and genetic world of biology really opened up for me here. Not to mention meeting my future PhD advisor while she was postdocing at the university.
 
 BA Studies & Postgrad Work: Field ecology
 ------
