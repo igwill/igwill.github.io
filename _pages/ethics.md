@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Ethics Statements"
 permalink: /ethics/
 author_profile: true
 ---
-
+<!-- layout: archive removed from header to try to get horizontal lines -->
 A few thoughts on some important topics
 
 Equity, diversity, and inclusion
