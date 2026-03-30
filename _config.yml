@@ -23,7 +23,7 @@ repository               : "igwill/igwill.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "favicon.svg"
+  avatar           : "iw2.jpg"
   name             : "Ian Will"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
