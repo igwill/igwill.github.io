@@ -71,35 +71,23 @@ Leadership & academic service
 ------
 * 2025 – present: King Lab EDI action plan, Vancouver, Canada.
   * Lead on developing metrics collection and EDI data analysis for Dr. King’s CERC EDI intiative; Supporting traning: "Equity, Diverstiy & Inclusion in Teaching and Learning"
-* 2018 – present: Manuscript peer review.
-  * Molecular Ecology (4), Journal of Experimental Biology, The Science of Nature, mSystems (2), Journal of Invertebrate Pathology, Proceedings B, Reinvention, UCF Pegasus Review
+* 2018 – present: Manuscript peer review (12x).
 * 2021: TAMBL award reviewer, Orlando,FL.
-  * UCF Biology Graduate Student Association travel award judging
 * 2020: Redesign of the UCF-COS Distinguished Speakers Seminar, Orlando, FL.
   * Developed an interdisciplinary seminar series adopted and funded ($16,000/year) by UCF College of Sciences to host scholars underrepresented in our department faculties, in collaboration with a fellow UCF graduate student, ended in 2023 due to FL Senate Bill 266 defunding DEI initiatives
 * 2019: Graduate School Q&A Panel, Orlando, FL.
-  * Panel member for UCF biology undergraduates, hosted by UCF Entomological Society
 * 2018 - 2019: BGSA Vice-president, Orlando, FL.
-  * Leadership position with the UCF Biology Graduate Student Association
 
 Teaching
 ------
-* 2025: Guest lecture at the University of British Columbia, Vancouver, Canada.
-  * Invited guest lecturer for BIOL 302: Biodiversity, Human and Planetary Health
-* 2020: Guest lecture at the University of California, Berkeley, Berkeley, CA.
-  * Invited guest lecturer for ESPM 42: Insects and Human Society
+* 2025: Biodiversity, Human and Planetary Health guest lecture at the University of British Columbia, Vancouver, Canada.
+* 2020: Insects and Human Society guest lecture at the University of California, Berkeley, Berkeley, CA.
 * 2020: UCF Course Biology of Fungi, Orlando, FL.
-  * Graduate Teaching Assistant, research intensive course
 * 2020: UCF Course Genomics, Orlando, FL.
-  * Graduate Teaching Assistant, research intensive course
 * 2019: UCF Course Genetics Lab, Orlando, FL.
-  * Graduate Teaching Assistant
 * 2019: Course revision UCF Genetics Lab, Orlando, FL.
-  * Course content update and restructuring
 * 2019: UCF Course Genetics Lab, Orlando, FL.
-  * Graduate Teaching Assistant
 * 2018: UCF Course Genomics, Orlando, FL.
-  * Graduate Teaching Assistant, research intensive course
 
 Mentorship
 ------
