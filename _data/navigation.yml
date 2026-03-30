@@ -29,6 +29,12 @@ main:
   - title: "Career Map"
     url: /map/
 
+  - title: "Ethics"
+    url: /ethics/
+
+  - title: "Personal"
+    url: /personal/
+
   # - title: "CV"
   #   url: /cv-json/
     
