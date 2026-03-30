@@ -29,7 +29,7 @@ Education & academic positions
 
 Publications
 ------
-See the [Publications](https://igwill.github.io/publications/) page or my [Google Scholar](https://scholar.google.ca/citations?hl=en&pli=1&user=XmDE2V0AAAAJ))
+See the [Publications](https://igwill.github.io/publications/) page or my [Google Scholar](https://scholar.google.ca/citations?hl=en&pli=1&user=XmDE2V0AAAAJ)
 
 Awards
 ------
