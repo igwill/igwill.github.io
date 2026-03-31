@@ -15,7 +15,7 @@ My current institute is housed on the UBC Point Gray (Vancouver) campus that is 
 
 Use of LLMs and 'artificial intelligence' chatbots
 ------
-I have used AI in only a limited capacity, but am open to carefully exploring where and when to apply it. Any of my published work that uses 'AI' in a substantive way will be acknowledged and all collaborators will be consulted beforehand. Thus far, I have yet to ever use AI tools to change my writing or stand in for my own scientific thinking. 
+I have used 'AI' in only a limited capacity, but am open to carefully exploring where and when to apply it. Any of my published work that uses AI in a substantive way will be acknowledged and all collaborators will be consulted beforehand. Thus far, I have yet to ever use AI tools to change my writing or stand in for my own scientific thinking. 
 
 However, I have used it to e.g., (_i_) wrangle dataframes and add complex aspects to plots in R (that I sanity check after), (_ii_) help me reassociate the right bits of my writing with their references after a citation manager spasm (that I check after), (_iii_) ballpark estimate plausible cell count to optical density correlations while setting up some lab pilots, or (_iv_) layout draft html code for the [Career Map](https://igwill.github.io/map/) page on this website (for which I learned just enough html to modify to my needs after). I’m open to learning more to smartly use, but not overly rely upon, this emerging technology. For now I treat it like a well-meaning and hard-working assistant, rather than an expert collaborator. If only it could also go pick up coffee too.
 
