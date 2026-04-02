@@ -28,6 +28,11 @@ Pottery
     </figure>
 </div>
 
+<figure>
+<img src="/images/personal/marble.jpg" height="20">
+<figcaption>In my marble era</figcaption>
+</figure>
+
 Climbing
 ------
 
