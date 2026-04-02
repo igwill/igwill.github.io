@@ -9,27 +9,27 @@ An honest to goodness real human bean with interests outside of science [...unde
 
 Pottery
 ------
-<div class="row-container">
+<div class="image-container">
     <figure>
-    <img src="images/personal/marble (Large).jpg">
+    <img src="/images/personal/marble.jpg">
     <figcaption>In my marble era</figcaption>
     </figure>
     <figure>
-    <img src="images/personal/mug (Large).jpg" alt="A descriptive description of the image.">
+    <img src="/images/personal/mug (Large).jpg" alt="A descriptive description of the image.">
     <figcaption>Some mugs</figcaption>
     </figure>
     <figure>
-    <img src="images/personal/tnmug (Large).jpg" alt="A descriptive description of the image.">
+    <img src="/images/personal/tnmug (Large).jpg" alt="A descriptive description of the image.">
     <figcaption>Work in progress</figcaption>
     </figure>
     <figure>
-    <img src="images/personal/dish (Large).jpg" alt="A descriptive description of the image.">
+    <img src="/images/personal/dish (Large).jpg" alt="A descriptive description of the image.">
     <figcaption>Candle dish thing with a raccoon</figcaption>
     </figure>
 </div>
 
 <figure>
-<img src="images/personal/marble (Large).jpg">
+<img src="/images/personal/marble (Large).jpg">
 <figcaption>In my marble era</figcaption>
 </figure>
 
