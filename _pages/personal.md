@@ -61,7 +61,7 @@ Climbing
     </figure>
     <figure>
     <img src="/images/personal/boulder (Large).jpg">
-    <figcaption>V0s that kill at Murrin</figcaption>
+    <figcaption>One of my first boulders</figcaption>
     </figure>
     <figure>
     <img src="/images/personal/lighthouse (Large).jpg">
