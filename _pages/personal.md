@@ -9,7 +9,7 @@ An honest to goodness real human bean with interests outside of science [...unde
 
 Pottery
 ------
-<div class="image-container">
+<div class="row-container">
     <figure>
     <img src="images/personal/marble (Large).jpg">
     <figcaption>In my marble era</figcaption>
@@ -27,6 +27,11 @@ Pottery
     <figcaption>Candle dish thing with a raccoon</figcaption>
     </figure>
 </div>
+
+<figure>
+<img src="images/personal/marble (Large).jpg">
+<figcaption>In my marble era</figcaption>
+</figure>
 
 Climbing
 ------
