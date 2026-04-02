@@ -5,12 +5,30 @@ permalink: /personal/
 author_profile: true
 ---
 
+<style>
+  .figure-row {
+    display: flex;
+    flex-wrap: wrap; /* Allows figures to wrap to a new row */
+    gap: 10px;      /* Space between figures */
+  }
+  .figure-row figure {
+    flex: 1 1 200px; /* Grow, shrink, base-width (200px) */
+    margin: 0;       /* Reset default margin */
+  }
+  .figure-row img {
+    width: 100%;     /* Image fills the figure container */
+    height: auto;
+  }
+</style>
+
+
+
 An honest to goodness real human bean with interests outside of science [...under construction...]
 
 Pottery
 ------
-<!--
-<div style="flex-wrap: wrap; gap: 10px;">
+
+<div class="figure-row">
     <figure>
     <img src="/images/personal/marble.jpg" height="20">
     <figcaption>In my marble era</figcaption>
@@ -35,7 +53,7 @@ Pottery
 </figure>
 
 <img src="/images/personal/marble.jpg" height="20">
--->
+
 Climbing
 ------
 
