@@ -11,7 +11,7 @@ Pottery
 ------
 <div style="flex-wrap: wrap; gap: 10px;">
     <figure>
-    <img src="/images/personal/marble.jpg" height="300">
+    <img src="/images/personal/marble.jpg" height="20">
     <figcaption>In my marble era</figcaption>
     </figure>
     <figure>
