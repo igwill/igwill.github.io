@@ -9,7 +9,7 @@ An honest to goodness real human bean with interests outside of science [...unde
 
 Pottery
 ------
-<div style="flex-wrap: wrap; gap: 10px;">
+<div class="row">
     <figure>
     <img src="/images/personal/marble.jpg", height="300">
     <figcaption>In my marble era</figcaption>
