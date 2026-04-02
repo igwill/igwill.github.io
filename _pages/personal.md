@@ -12,7 +12,7 @@ author_profile: true
     gap: 10px;      /* Space between figures */
   }
   .figure-row figure {
-    flex: 1 1 200px; /* Grow, shrink, base-width (200px) */
+    flex: 0 1 200px; /* Don't Grow, shrink, base-width (200px) */
     margin: 0;       /* Reset default margin */
   }
   .figure-row img {
