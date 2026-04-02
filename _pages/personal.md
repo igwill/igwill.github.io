@@ -101,12 +101,15 @@ Neat stuff I've seen since moving to Canada
     <img src="/images/personal/squatch (Large).jpg">
     <figcaption>A keystone species in BC</figcaption>
     </figure>
+    <figure>
     <img src="/images/personal/curl (Large).jpg">
     <figcaption>UBC postdocs hurling rocks</figcaption>
     </figure>
+    <figure>
     <img src="/images/personal/lumber (Large).jpg">
     <figcaption>Lumberjacks jacking</figcaption>
     </figure>
+    <figure>
     <img src="/images/personal/bomber (Large).jpg">
     <figcaption>Old crash on the island</figcaption>
     </figure>
