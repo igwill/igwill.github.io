@@ -19,5 +19,5 @@ I have used 'AI' in only a limited capacity, but am open to carefully exploring 
 
 Accessible science
 ------
-I do my best to publish open access (and hustle small funding awards when needed to do so) and ensure my data are accessible on proper repositories. For publication that I am a corresponding author, I have private backups and can share as needed as well. I like society journals, by researchers for researchers, but do publish with the big companies as a matter of practicality.
+I do my best to publish open access (and hustle small funding awards when needed to do so) and ensure my data are accessible on proper repositories. For publications that I am a corresponding author, I have private backups and can share as needed as well. I like society journals, by researchers for researchers, but do publish with the big companies as a matter of practicality.
 
