@@ -23,7 +23,7 @@ author_profile: true
 
 
 
-An honest to goodness real human bean with interests outside of science [...under construction...]
+An honest to goodness real human bean with interests outside of science
 
 Pottery
 ------
