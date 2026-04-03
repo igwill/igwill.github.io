@@ -21,7 +21,7 @@ See more in [Research](https://igwill.github.io/research/)
 
 Background
 ------
-I have gone from a field ecology undergraduate to a molecular and cellular biology master's to a PhD that brought together a bit of both and added computational approaches. Throughout, I have been motivated by a love for the natural world -- and over time developed a global prespective on doing science and homed in on timely questions in ecology and evolution. See more in [CV](https://igwill.github.io/cv/) or the interactive [Career Map](https://igwill.github.io/map/).
+I have gone from a field ecology undergraduate to a molecular and cellular biology master's to a PhD that brought together a bit of both and added computational approaches. Throughout, I have been motivated by a love for the natural world -- and over time developed a global prespective on doing science and homed in on timely questions in ecology and evolution. See more in [CV](https://igwill.github.io/cv/) or the interactive [Career Map](https://igwill.github.io/map/). You can also check my stances on academic [Ethics](https://igwill.github.io/ethics/) and get an idea of how I spend some of my freetime on [Personal](https://igwill.github.io/personal/).
 
 <!--
 fat line

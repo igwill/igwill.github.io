@@ -23,7 +23,7 @@ author_profile: true
 
 
 
-An honest to goodness real human bean with interests outside of science
+An honest to goodness real human bean with interests outside of science. I try my best to keep up with life outside of work and hope any collaborators or mentees of mine feel free to do so as well.
 
 Pottery
 ------
